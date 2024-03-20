@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="array_technology">
+        <item>The Following are my skills : </item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>Flutter</item>
+        <item>Dart</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Problem Solving</item>
+        <item>Firebase</item>
+        <item>AWS Cloud</item>
+        <item>Google Cloud</item>
+        <item>SQL</item>
+        <item>Oracle</item>
+    </string-array>
+</resources>
